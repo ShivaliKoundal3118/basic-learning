@@ -1,0 +1,9 @@
+.first{
+    margin: auto;
+    font-style: italic;
+    border: solid black;
+    box-shadow: 5px 10px #888888;
+    display: flex;
+    width: 55%; 
+    justify-content: space-between;
+}
